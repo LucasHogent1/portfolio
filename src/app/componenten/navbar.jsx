@@ -12,8 +12,11 @@ const Navbar = () => {
     setIsMenuOpen(!isMenuOpen);
   };
 
+
+
   return (
     <div style={{ paddingBottom: '100px' }}>
+    {/* // <div> */}
       <nav className="bg-customDarkBlue fixed w-full z-20 top-0 start-0 border-b border-customDarkBlue">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <Link href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
