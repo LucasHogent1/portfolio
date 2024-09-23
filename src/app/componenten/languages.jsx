@@ -10,7 +10,7 @@ const languages = [
   { name: 'Git', icon: 'https://cdn-icons-png.flaticon.com/512/11518/11518876.png' },
   { name: 'GitHub', icon: 'https://cdn-icons-png.flaticon.com/512/733/733553.png' },
   { name: 'Node.js', icon: 'https://cdn-icons-png.flaticon.com/512/5968/5968322.png' },
-  { name: 'Next.js', icon: 'https://cdn-icons-png.flaticon.com/512/5968/5968292.png' }, 
+  { name: 'Next.js', icon: 'https://cdn.worldvectorlogo.com/logos/next-js.svg' },
   { name: 'Vite', icon: 'https://vitejs.dev/logo.svg' }, 
   { name: 'SQL', icon: 'https://cdn-icons-png.flaticon.com/512/2772/2772128.png' },
   { name: 'MySQL', icon: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png' },
