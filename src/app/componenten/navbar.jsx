@@ -42,9 +42,6 @@ const Navbar = () => {
                 <Link href="/" className={`block py-2 px-3 rounded md:p-0 ${pathname === '/' ? 'text-customLightGray md:text-customLightGray' : 'text-customPink hover:text-customLightGray'}`} aria-current={pathname === '/' ? 'page' : undefined}>Home</Link>
               </li>
               <li className="w-full md:w-auto text-center">
-                <Link href="/ervaring" className={`block py-2 px-3 rounded md:p-0 ${pathname === '/ervaring' ? 'text-customLightGray md:text-customLightGray' : 'text-customPink hover:text-customLightGray'}`}>Ervaring</Link>
-              </li>
-              <li className="w-full md:w-auto text-center">
                 <Link href="/projecten" className={`block py-2 px-3 rounded md:p-0 ${pathname === '/projecten' ? 'text-customLightGray md:text-customLightGray' : 'text-customPink hover:text-customLightGray'}`}>Projecten</Link>
               </li>
               <li className="w-full md:w-auto text-center">
